@@ -83,7 +83,7 @@
     }
 
     // 비밀번호 암호화
-    $youPass = sha1($youPass);
+    // $youPass = sha1($youPass);
 
     // 휴대폰 번호 유효성 검사
     $check_number = preg_match("/^(010|011|016|017|018|019)-[0-9]{3,4}-[0-9]{4}$/", $youPhone);

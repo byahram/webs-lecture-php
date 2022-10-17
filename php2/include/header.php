@@ -7,10 +7,17 @@
             <a href="../main/main.php">PHP BLOG</a>
         </h1>
         <div class="right">
-            <ul>
-                <li><a href="../login/login.php">로그인</a></li>
-                <li><a href="../login/join.php">회원가입</a></li>
-            </ul>
+            <?php if(isset($_SESSION['memberID'])) { ?>
+                <ul>
+                    <li><a href="../mypage/mypage.php"><?=$_SESSION['youName']?>님 환영합니다.</a></li>
+                    <li><a href="../login/logout.php">회원가입</a></li>
+                </ul>
+            <?php } else { ?>
+                <ul>
+                    <li><a href="../login/login.php">로그인</a></li>
+                    <li><a href="../login/join.php">회원가입</a></li>
+                </ul>
+            <?php } ?>
         </div>
         <nav class="nav">
             <ul>
