@@ -23,8 +23,8 @@
             <ul>
                 <li><a href="../login/join.php"><span>회원가입</span></a></li>
                 <li><a href="../login/login.php"><span>로그인</span></a></li>
-                <li><a href="../login/board.php"><span>게시판</span></a></li>
-                <li><a href="../login/blog.php"><span>블로그</span></a></li>
+                <li><a href="../board/board.php"><span>게시판</span></a></li>
+                <li><a href="../blog/blog.php"><span>블로그</span></a></li>
             </ul>
         </nav>
     </div>

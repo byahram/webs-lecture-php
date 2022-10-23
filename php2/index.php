@@ -54,11 +54,18 @@
             <li>데이터베이스 접속 : <a href="connect/connect.php">connect.php</a></li> <br/>
 
             <li>회원가입 테이블 만들기 : <a href="create/createMember.php">createMember.php</a></li>
+            <li>게시판 테이블 만들기 : <a href="create/createBoard.php">createBoard.php</a></li>
+            <li>게시판 데이터 테이블 만들기 : <a href="create/createBoardData.php">createBoardData.php</a></li> <br />
+
             <li>회원가입 페이지 : <a href="login/join.php">join.php</a></li>
-            <li>회원가입 데이터 저장 페이지 : <a href="login/joinSave.php">join.php</a></li>
-            <li>로그인 페이지 : <a href="login/login.php">join.php</a></li>
-            <li>로그인 데이터 저장 페이지 : <a href="login/loginSave.php">join.php</a></li>
-            <li>로그아웃 : <a href="login/logout.php">join.php</a></li>
+            <li>회원가입 데이터 저장 페이지 : <a href="login/joinSave.php">joinSave.php</a></li>
+            <li>로그인 페이지 : <a href="login/login.php">login.php</a></li>
+            <li>로그인 데이터 저장 페이지 : <a href="login/loginSave.php">loginSave.php</a></li>
+            <li>로그아웃 : <a href="login/logout.php">logout.php</a></li> <br/>
+
+            <li>게시판 페이지 : <a href="board/board.php">board.php</a></li>
+            <li>게시판 글쓰기 : <a href="board/boardWrite.php">boardWrite.php</a></li>
+            <li>게시판 글쓰기 : <a href="board/boardWrite.php">boardWrite.php</a></li>
         </ul>
     </div>
 </body>
