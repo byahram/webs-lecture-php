@@ -26,9 +26,9 @@
 
     <main id="main">
 <?php
-    echo "<pre>";
-    var_dump($_SESSION);
-    echo "</pre>";
+    // echo "<pre>";
+    // var_dump($_SESSION);
+    // echo "</pre>";
 ?>
         <section id="banner">
             <h2 class="blind">블로그 소개입니다.</h2>

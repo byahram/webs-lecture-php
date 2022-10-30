@@ -55,7 +55,8 @@
 
             <li>회원가입 테이블 만들기 : <a href="create/createMember.php">createMember.php</a></li>
             <li>게시판 테이블 만들기 : <a href="create/createBoard.php">createBoard.php</a></li>
-            <li>게시판 데이터 테이블 만들기 : <a href="create/createBoardData.php">createBoardData.php</a></li> <br />
+            <li>게시판 데이터 테이블 만들기 : <a href="create/createBoardData.php">createBoardData.php</a></li> 
+            <li>블로그 테이블 만들기 : <a href="create/createBlog.php">createBlog.php</a></li> <br />
 
             <li>회원가입 페이지 : <a href="login/join.php">join.php</a></li>
             <li>회원가입 데이터 저장 페이지 : <a href="login/joinSave.php">joinSave.php</a></li>
@@ -64,8 +65,10 @@
             <li>로그아웃 : <a href="login/logout.php">logout.php</a></li> <br/>
 
             <li>게시판 페이지 : <a href="board/board.php">board.php</a></li>
-            <li>게시판 글쓰기 : <a href="board/boardWrite.php">boardWrite.php</a></li>
-            <li>게시판 글쓰기 : <a href="board/boardWrite.php">boardWrite.php</a></li>
+            <li>게시판 글쓰기 : <a href="board/boardWrite.php">boardWrite.php</a></li><br/>
+
+            <li>블로그 페이지 : <a href="blog/blog.php">blog.php</a></li>
+            <li>블로그 글쓰기 : <a href="blog/blogWrite.php">blogWrite.php</a></li>
         </ul>
     </div>
 </body>

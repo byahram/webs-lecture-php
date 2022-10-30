@@ -1,5 +1,6 @@
 <!-- CSS -->
 <link rel="stylesheet" href="../html/assets/css/style.css">
+<!-- <link rel="stylesheet" href="../html/assets/css/style.min.css"> -->
 
 <!-- META -->
 <meta name="author" content="webstoryboy">
